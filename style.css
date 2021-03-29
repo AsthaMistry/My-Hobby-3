@@ -1,0 +1,165 @@
+body{
+  background-repeat:no-repeat;
+  text-align:center;
+}
+
+img{
+  width:15%;
+  border-radius:50%;
+  transition: transform .2s;
+  border:10px solid:#AAAAAA;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#you_icon{
+    border-radius: 0%;
+    width: 30px;
+}
+#gmail_icon{
+    border-radius: 0%;
+    width: 30px;
+}
+
+h1{
+  font-size:34px;
+  color:chartreuse;
+}
+
+#name{
+ font-size:35px; 
+ color:chartreuse;
+}
+
+#ln{
+    background-color: black;
+    height: 1%;
+    width:7%;
+    margin-bottom: 0%;
+    margin-left: 46.5%;
+}
+#ln2{
+    background-color: black;
+    height: 1%;
+    width:26%;
+    margin-bottom: 0%;
+    margin-left: 37%;
+}
+#ln3{
+    background-color: black;
+    height: 1%;
+    width:26%;
+    margin-bottom: 0%;
+    margin-left: 37%;
+}
+#ln4{
+    background-color: black;
+    height: 1%;
+    width:12%;
+    margin-left: 44%;
+}
+
+
+p{
+  color:blue;
+  font-size:20px;
+}
+#hobby{
+    margin-left:25%
+}
+
+.menu {
+    list-style:none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    margin-top: 0px;
+}
+
+#sec2{
+  background-color:yellowgreen;
+  margin-top:-83px;
+}
+
+#sec1{
+   background:linear-gradient(#34baeb,#4634eb);
+   padding-bottom: 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display:inline-block;   
+}
+
+h5{
+ font-size:50px;
+ margin-bottom: 0%;
+}
+#about{
+    margin-right: 10px;
+}
+#fav{
+    margin-right: 10px;
+}
+#inspiration{
+    margin-right: 10px;
+}
+#work{
+    margin-right: 10px;
+}
+#contact{
+    margin-right: 10px;
+}
+#sec3{
+    background-color:bisque;
+    padding-top: 0.5%;
+    margin-top: -1%;
+}
+#van{
+    margin-left: 2%;
+    width:20%;
+}
+#scream{
+    width:15%;
+}
+#potrait{
+    margin-left: 2%;
+    height: 300px;
+}
+#mona{
+    margin-top: 5%;
+}
+#fvo{
+    color:black;
+}
+#scr{
+    font-size: 40px;
+}
+#lisa{
+    font-size: 40px;
+}
+#self{
+    font-size: 40px;
+}
+#starry{
+    font-size: 40px;
+}
+#Vincent{
+    height: 30%;
+}
+#sec4{
+    background-color: hotpink;
+    padding-top: 0.5%;
+    margin-top: -1%;
+}
+#sec5{
+    background-color: lightpink;
+
+}
